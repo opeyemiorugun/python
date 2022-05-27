@@ -4,7 +4,6 @@
 # find_anagrams("below", "elbow") --> True
 
 
-import webbrowser
 
 
 def find_anagram(word, anagram):
